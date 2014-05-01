@@ -6,14 +6,15 @@
   "description": "Idiomatic XMPP client, component & server library for node.js + browserify",
   "author": "Astro",
   "dependencies": {
-    "node-expat": ">=1.4.1",
-    "ltx": ">= 0.2.0",
-    "request": ">= 2.9.153",
-    "browser-request": ">= 0.2.0",
-    "faye-websocket": ">= 0.4.1",
     "blueimp-md5": ">= 1.0.0",
+    "brfs": "0.0.8",
+    "browser-request": ">= 0.2.0",
     "browserify": "~2.35.0",
-    "brfs": "0.0.8"
+    "faye-websocket": ">= 0.4.1",
+    "ltx": ">= 0.2.0",
+    "node-expat": ">=1.4.1",
+    "proxywrap": "0.2.0",
+    "request": ">= 2.9.153"
   },
   "devDependencies": {
     "mocha": ">=1.0.0",
